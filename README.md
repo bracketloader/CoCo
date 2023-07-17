@@ -7,7 +7,7 @@
 #### An delicate lib for System Capture, Pick and Crop in Android 🐵
  - Provided the function of image capture or album selection or cropping from system application just need one code
  - The inner adjust the FileProvider in Android 7.0 and above
- - The default image disposer provided two strategy to compress the image, it can also can be customed
+ - The default image disposer provided two strategies to compress the image, it can also can be customed
  - Both Activity and Fragment supported，the asynchronous dispose of image will bind their lifecycle automatic
  - The new designed api, easy to understand
  - Fully based on kotlin, also can worked with java
